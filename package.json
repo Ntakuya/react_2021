@@ -1,0 +1,15 @@
+{
+  "name": "react_2021",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Ntakuya/react_2021.git",
+  "license": "MIT",
+  "scripts": {
+    "ca": "create-react-app",
+    "nx": "nx"
+  },
+  "dependencies": {
+    "create-react-app": "^4.0.1",
+    "nx": "^11.2.6"
+  }
+}
